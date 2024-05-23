@@ -1,5 +1,5 @@
 # POKEMON EXPLORER TYPE
-- ai와 협업한 프로젝트
+- ai와 협업한 프로젝트  
 
 
 
